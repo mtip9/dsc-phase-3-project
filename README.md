@@ -18,21 +18,17 @@ Utilizing predictive modeling to find key features for receiving seasonal flu va
 
 ## Evaluation
 
-For every increase in 1 square footage of the living area, expect an associated increase of $478 in price
+Consumers who believed they were at a higher risk of contracting the flu received the seasonal flu vaccine more compared to those thinking they were at a lower risk.
 
 ![opinion seas risk](images/opinion_seas_risk.png)
 
-For every increase in 1 square footage of the patio, expect an associated increase of $199 in price
+Consumers who had the seasonal flu vaccine recommended to them by their doctor received the vaccine more than those who were not recommended by their doctors.
 
 ![doctor recc seasonal](images/doctor_recc_seasonal.png)
 
-For a house of Fair condition compared to a house of poor condition, we see an associated increase in price of about 16%. For a house of Average condition compared to a house of poor condition, we see an associated increase in price of about 25%. For a house of good condition compared to a house of poor condition, we see an associated increase in price of about 26%. For a house of very good condition compared to a house of poor condition, we see an associated increase in price of about 32%.
+Consumers who strongly believed the seasonal flu vaccine was effective received the vaccine more than those that had less belief in the vaccine's effectiveness.
 
 ![opinion seas vacc effective](images/opinion_seas_vacc_effective.png)
-
-![price_v_condition](images/price_v_condition.png)
-
-Confusion matrix results
 
 ## Conclusion
 
