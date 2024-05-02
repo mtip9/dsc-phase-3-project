@@ -32,11 +32,11 @@ Consumers who strongly believed the seasonal flu vaccine was effective received 
 
 ## Conclusion
 
-
+The best and final model we found based on precision score was the original random forest model. This model identified the three most important features of receiving the seasonal flu vaccine as the opinion of getting sick with the flu without the seasonal flu vaccine, the opinion of the effectiveness of the seasonal flu vaccine, and wether the seasonal flu vaccine was recommended to them by their doctor or not. Based on these results, recommendations to the pharmaceutical company would be to discuss the vaccines effectiveness, wether its doctor recommended or not, and explaining the risk of contracting the flu without the vaccine when marketing their seasonal flu vaccine.
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](home_renovation_analysis.ipynb) or review [Presentation](home_renovation_presentation.pdf)
+See the full analysis in the [Jupyter Notebook](seasonal_flu_vaccine_analysis.ipynb) or review [Presentation](home_renovation_presentation.pdf)
 
 ## Repository Structure
 
