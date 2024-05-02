@@ -12,7 +12,7 @@ A pharmaceutical company wants to understand the driving factors for consumers w
 
 ## Modeling
 
-![price_v_sqft_living](images/price_v_sqft_living.png)
+![seasonal vaccine proportion](images/seasonal_vaccine_proportion.png)
 
 Utilizing predictive modeling to find key features for receiving seasonal flu vaccine
 
