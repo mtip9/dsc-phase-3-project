@@ -4,7 +4,7 @@
 
 ## Overview
 
-The purpose of this project is to create a model that helps homeowners and real estate agencies highlight the key components to add profitability when selling their homes. Using multiple linear regression, we will analyze data from the King County House Sales dataset and examine how renovating different components of a hoke will impact overall sales.
+The purpose of this project is to create a model that helps a pharmaceutical company highlight the key factors of people's reasoning behind receiving the seasonal flu vaccine. Using predictive models, we will analyze data from the National 2009 H1N1 Flu Survery dataset and examine which factors are more likely to lead a person to receive the seasonal flu vaccine.
 
 ## Business Problem
 
