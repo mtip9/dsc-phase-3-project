@@ -24,7 +24,7 @@ For every increase in 1 square footage of the living area, expect an associated 
 
 For every increase in 1 square footage of the patio, expect an associated increase of $199 in price
 
-![price_v_sqft_patio](images/price_v_sqft_patio.png)
+![doctor recc seasonal](images/doctor_recc_seasonal.png)
 
 For a house of Fair condition compared to a house of poor condition, we see an associated increase in price of about 16%. For a house of Average condition compared to a house of poor condition, we see an associated increase in price of about 25%. For a house of good condition compared to a house of poor condition, we see an associated increase in price of about 26%. For a house of very good condition compared to a house of poor condition, we see an associated increase in price of about 32%.
 
