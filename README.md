@@ -20,7 +20,7 @@ Utilizing predictive modeling to find key features for receiving seasonal flu va
 
 For every increase in 1 square footage of the living area, expect an associated increase of $478 in price
 
-![price_v_sqft_living](images/price_v_sqft_living.png)
+![opinion seas risk](images/opinion_seas_risk.png)
 
 For every increase in 1 square footage of the patio, expect an associated increase of $199 in price
 
