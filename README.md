@@ -36,7 +36,7 @@ The best and final model we found based on precision score was the original rand
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](seasonal_flu_vaccine_analysis.ipynb) or review [Presentation](home_renovation_presentation.pdf)
+See the full analysis in the [Jupyter Notebook](seasonal_flu_vaccine_analysis.ipynb) or review [Presentation](seasonal_flu_vaccine_presentation.pdf)
 
 ## Repository Structure
 
